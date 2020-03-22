@@ -15,6 +15,10 @@ namespace DataTypesInDepth
             x = int.MaxValue;
 
             Console.WriteLine(x);
+
+            uint y = uint.MaxValue;
+
+            Console.WriteLine(y);
         }
     }
 }
