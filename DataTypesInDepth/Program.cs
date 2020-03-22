@@ -10,6 +10,11 @@ namespace DataTypesInDepth
     {
         static void Main(string[] args)
         {
+            int x = 0;
+
+            x = int.MaxValue;
+
+            Console.WriteLine(x);
         }
     }
 }
